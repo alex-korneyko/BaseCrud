@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BseCrudTest", "BseCrudTest\BseCrudTest.csproj", "{33D00068-9272-4E9C-A018-9646291A2DF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseCrudTest", "BaseCrudTest\BaseCrudTest.csproj", "{33D00068-9272-4E9C-A018-9646291A2DF1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseCrud", "BaseCrud\BaseCrud.csproj", "{64B63E00-C438-4494-8F4E-3870EB31DC5F}"
 EndProject
